@@ -3,8 +3,9 @@
 mod same;
 mod sumZero;
 mod countUnique;
+mod MaxSumSubArray;
 
 fn main() {
-    let res= countUnique::count_unique(& mut [1,2,2,3]);
+    let res= MaxSumSubArray::MaxSumSubArray(&[1,2,3,4], 2);
     println!("{:?}",res);
- }
+ } 
