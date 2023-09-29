@@ -25,7 +25,6 @@
 
 - [ ] **Set up frontend environment** #frontend_setup
   - [ ] Install necessary libraries (CSS, HTML, JS)
-    -
   - [ ] Django as the framework
   - [ ] Create main HTML template
 - [ ] **Design website layout** #design
